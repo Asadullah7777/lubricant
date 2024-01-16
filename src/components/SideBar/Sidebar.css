@@ -1,0 +1,10 @@
+/* .ant-menu-item-selected{
+    color: red !important;
+} */
+.sidebar{
+    height: 100vh;
+}
+.ant-layout-sider{
+    height: 100% !important;
+  
+}

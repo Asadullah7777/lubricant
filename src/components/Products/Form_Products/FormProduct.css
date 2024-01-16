@@ -1,0 +1,17 @@
+.form-p{
+/* display: flex; */
+align-items: center;
+justify-content: center;
+
+
+
+}
+.btn1-p{
+    background-color: #212529;
+    color: white;
+}
+.btn-p{
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}

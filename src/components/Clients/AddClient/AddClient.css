@@ -1,0 +1,17 @@
+.form-c{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+    }
+    .btn1-c{
+        background-color: #212529;
+        color: white;
+    }
+    .btn-c{
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
